@@ -1,1 +1,1 @@
-# Javascrpt_projects
+# Javascrpt_projects and assgnments
